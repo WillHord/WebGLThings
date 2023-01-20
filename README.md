@@ -2,17 +2,17 @@
 
 WebGLThings consists of six assignemnts I did in my Intro to Computer Graphics Class. The first five were created using pure WebGL and the final one uses ThreeJS. Check them out at the links below or follow the instructions to test them locally:
 
-[Vector Drawer]() - Draw 2D vectors
+[Vector Drawer](https://willhord.github.io/WebGLThings/VectorDrawer/VectorDrawer.html) - Draw 2D vectors
 
-[2D Paint]() - Paint a scene with shapes in 2D
+[2D Paint](https://willhord.github.io/WebGLThings/2DPaint/2DPaint.html) - Paint a scene with shapes in 2D
 
-[Blocky 3D Animal]() - A 3D animated frog
+[Blocky 3D Animal](https://willhord.github.io/WebGLThings/BlockyAnimal/BlockyAnimal.html) - A 3D animated frog
 
-[Virtual World]() - A world you can walk around in and catch the frog
+[Virtual World](https://willhord.github.io/WebGLThings/VirtualWorld/VirtualWorld.html) - A world you can walk around in and catch the frog
 
-[Lighting]() - Testing of lighting in WebGL
+[Lighting](https://willhord.github.io/WebGLThings/Lighting/Lighting.html) - Testing of lighting in WebGL
 
-[Bad Mario]() - A poor rendering of Super Mario 64
+[Bad Mario](https://willhord.github.io/WebGLThings/BadMario/BadMario.html) - A poor rendering of Super Mario 64
 
 
 ## Getting Started
